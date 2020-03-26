@@ -1,0 +1,96 @@
+
+
+body {
+
+	margin: 125px 300px 0px 300px;
+	padding: 0px 20px 0px 20px;
+	line-height: 1.75;
+	font-family: Georgia,serif;
+	font-size: 19px;
+	color: #333333fc;
+	font-weight: 500px;
+}
+
+h1 {
+	font-family: "Source Sans Pro","Helvetica Neue",Arial,sans-serif;
+	font-weight: 900;
+	font-size: 42px;
+	margin-bottom: -3px;
+	letter-spacing: -2px;
+}
+
+.Published-On {
+	margin-top: 20px;
+	font-family: "Garamond";
+	font-size: 12px;
+	font-style: italic;
+	color: #707070;
+}
+
+.Published-Date {
+
+	font-size: 12px;
+	font-weight: 700;
+	font-family: "Source Sans Pro","Helvetica Neue",Arial,sans-serif;
+	color: #555555fc;
+	font-style: normal;
+	text-transform: uppercase;
+}
+
+.CommisionWarning {
+	margin-top: 27px;
+		padding-left: 20px;
+		padding-top: 20px;
+		padding-bottom: 20px;
+		padding-right: 20px;
+	border: 0.2px solid #e5e5e5;
+	color: #999999;
+	line-height: 25px;
+}
+
+strong {
+	font-weight: 700;
+}
+
+.MainContent {
+	font-weight: 500;
+	margin: 0 0 28px;
+	line-height: 1.75;
+	font-family: Georgia,serif;
+	font-size: 19px;
+	color: #333333fc;
+	font-weight: 500px;
+}
+
+h2 {
+	font-family: "Source Sans Pro","Helvetica Neue",Arial,sans-serif;
+	font-weight: 900;
+	font-size: 32px;
+	margin-bottom: -3px;
+	letter-spacing: -2px;
+	margin-bottom: 22px;
+}
+
+ul {
+	line-height: 1.75;
+	font-size: 19px;
+}
+
+h3 {
+	font-size: 28px;
+	font-family: "Source Sans Pro","Helvetica Neue",Arial,sans-serif;
+	text-decoration: underline;
+}
+
+a {
+	color:#00cc5f;
+}
+
+a:hover {
+	color: black;
+}
+
+img {
+	width: 750px;
+	height: auto;
+}
