@@ -1,0 +1,189 @@
+body {
+	font-family: "NeuzeitGro", "Helvetica Neue", "Helvetica", sans-serif;
+}
+
+#BackgroundColor {
+	background-color: #f7f7f8;
+}
+
+#HeaderSlide {
+	color: white;
+	text-align: center;
+	background-image: url("https://beatsbydre.com/content/dam/beats/web/pcp/headphones/header/pcp-headphones-header-v4.jpg.small.1x.jpg");
+	width: 100%;
+	height: 430px;
+	padding-bottom: 75px;
+	background-size: cover;
+	line-height: 35vw;
+	font-size: 2em;
+	margin-bottom: 0px;
+}
+
+#HeaderSlide h1 {
+	font-weight: 900;
+}
+
+.ImgClass {
+	float: right;
+}
+
+#Body {}
+
+.ProductPanel {
+	background-color: white;
+	padding-top: 50px;
+	padding-right: 100px;
+	padding-left: 100px;
+	padding-bottom: 100px;
+	margin: 85px;
+	color: #222021;
+	font-family: "NeuzeitGro", "Helvetica Neue", "Helvetica", sans-serif;
+}
+
+.ProductPanel h2 {
+	font-weight: 900;
+	font-size: 50px;
+	line-height: 75px;
+	font-stretch: extra-condensed;
+}
+
+.ProductPanel img {
+	position: relative;
+	top: -190px;
+	width: 35vw;
+}
+
+.ProductPanel li {
+	padding-left: 15px;
+	color: #a9adb0;
+	font-size: 0.8em;
+	font-weight: 800;
+}
+
+.ProductPanel ul {
+	line-height: 30px;
+	margin-left: -25px;
+}
+
+.Price {
+	margin-top: 35px;
+	font-weight: 800;
+	font-family: "AlternateGotNo2D", "Helvetica Neue", "Helvetica", sans-serif;
+	color: #222021;
+	margin-bottom: 35px;
+}
+
+button {
+	border-radius: 100px;
+	margin-bottom: 15px;
+	width: 200px;
+	height: 40px;
+	text-transform: uppercase;
+	font-size: ;
+	font-weight: 700;
+	cursor: pointer;
+}
+
+.LearnMore {
+	border: 2px #d6d6d6 solid;
+	background-color: transparent;
+}
+
+.ViewAllStyles {
+	background-color: #e01e3c;
+	border: 0px;
+	color: #fffff3;
+}
+
+#Navigation {}
+
+#Email {
+	background-color: white;
+	padding-top: 50px;
+	padding-right: 100px;
+	padding-left: 100px;
+	padding-bottom: 100px;
+	margin: 85px;
+	color: #222021;
+	font-family: "NeuzeitGro", "Helvetica Neue", "Helvetica", sans-serif;
+	margin-bottom: 100px;
+}
+
+#Email h2 {
+	text-align: center;
+	margin-top: 10%;
+	font-size: 2.2em;
+	font-weight: 800;
+}
+
+#Email p {
+	margin-top: -20px;
+	text-align: center;
+	line-height: 23px;
+}
+
+#Email button {
+	margin: auto;
+	margin-bottom: -2px;
+	text-transform: none;
+	display: block;
+	background-color: transparent;
+	border: 2px #d6d6d6 solid;
+	font-weight: 500;
+	text-align: left;
+	padding-left: 20px;
+	width: 45%;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+#SignUp {
+	margin: auto;
+	display: block;
+	text-align: center;
+	width: 25%;
+	padding-left: auto;
+	padding-right: auto;
+	color: #8c8c8c;
+}
+
+#SignUp button {
+	border: 2px #e01e3c solid;
+	font-weight: 800;
+}
+
+#Grey {
+	background-color: #f7f7f8;
+	margin-bottom: -3px;
+}
+
+#Footer {
+	background-color: white;
+	padding-top: 20px;
+	padding-left: 20%;
+	padding-right: 20%;
+	padding-bottom: 500px;
+}
+
+#Footer img {
+	width: 40px;
+	position: absolute;
+	left: 100px;
+}
+
+#Footer h3 {
+	display: inline;
+	margin: 15px;
+	font-weight: 800;
+	padding-left: 74px;
+	position: relative;
+	left: 3%;
+	top: 75px;
+}
+
+#Footer p {}
+
+p {
+	color: #8c8c8c;
+	font-size: 16px;
+}
